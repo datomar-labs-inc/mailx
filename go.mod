@@ -1,5 +1,3 @@
-module github.com/valord577/mailx
+module github.com/datomar-labs-inc/mailx
 
 go 1.16
-
-retract v0.1.20211112
